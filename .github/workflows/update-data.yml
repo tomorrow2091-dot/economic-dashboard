@@ -1,0 +1,44 @@
+name: "🔄 실시간 데이터 자동 업데이트"
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "🚀 리포지토리 체크아웃"
+        uses: actions/checkout@v4
+      - name: "🐍 Python 3.11 설정"
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      - name: "📦 의존성 설치"
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+      - name: "📊 데이터 수집 및 업데이트"
+        env:
+          ALPHA_VANTAGE_KEY: ${{ secrets.ALPHA_VANTAGE_KEY }}
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+          BANK_OF_KOREA_KEY: ${{ secrets.BANK_OF_KOREA_KEY }}
+        run: python update_dashboard_data.py
+      - name: "📝 Git 설정"
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "Dashboard Bot"
+      - name: "🔄 데이터 커밋 및 푸시"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
+          git add .
+          if git diff --staged --quiet; then
+            echo "ℹ️ 변경사항 없음 - 커밋 생략"
+          else
+            git commit -m "🔄 자동 데이터 업데이트: $(TZ=Asia/Seoul date '+%Y년 %m월 %d일 %H:%M KST')"
+            git push origin main
+            echo "✅ 데이터 업데이트 완료"
+          fi
