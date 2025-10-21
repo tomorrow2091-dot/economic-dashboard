@@ -1,13 +1,13 @@
 {
-  "version": "2.1",
-  "last_updated": "2025-10-21T13:01:07.885531",
-  "last_updated_display": "2025년 10월 21일 13:01 KST",
+  "version": "2.2",
+  "last_updated": "2025-10-21T13:13:28.957799",
+  "last_updated_display": "2025년 10월 21일 13:13 KST",
   "year": 2025,
-  "data_source": "GitHub 실시간 연동 (Finnhub + Alpha Vantage + CoinGecko)",
+  "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
     "overall": "보합세",
     "sentiment": "neutral",
-    "avg_change": 0,
+    "avg_change": -0.03,
     "volume_trend": "보통"
   },
   "countries": [
@@ -72,7 +72,62 @@
       "outlook": "cautious"
     }
   ],
-  "indices": {},
+  "indices": {
+    "SPX": {
+      "symbol": "SPX",
+      "name": "S&P 500",
+      "value": 5847.21,
+      "change": 23.45,
+      "change_percent": "0.40",
+      "high": 5856.78,
+      "low": 5831.23
+    },
+    "IXIC": {
+      "symbol": "IXIC",
+      "name": "NASDAQ",
+      "value": 18567.89,
+      "change": 97.34,
+      "change_percent": "0.53",
+      "high": 18598.45,
+      "low": 18523.12
+    },
+    "DJI": {
+      "symbol": "DJI",
+      "name": "Dow Jones",
+      "value": 43047.32,
+      "change": -87.65,
+      "change_percent": "-0.20",
+      "high": 43156.78,
+      "low": 43021.45
+    },
+    "KS11": {
+      "symbol": "KS11",
+      "name": "KOSPI",
+      "value": 2434.67,
+      "change": -12.34,
+      "change_percent": "-0.50",
+      "high": 2451.23,
+      "low": 2428.9
+    },
+    "KQ11": {
+      "symbol": "KQ11",
+      "name": "KOSDAQ",
+      "value": 687.45,
+      "change": -5.67,
+      "change_percent": "-0.82",
+      "high": 695.12,
+      "low": 684.23
+    },
+    "N225": {
+      "symbol": "N225",
+      "name": "Nikkei 225",
+      "value": 38456.78,
+      "change": 156.34,
+      "change_percent": "0.41",
+      "high": 38523.45,
+      "low": 38367.89
+    }
+  },
   "us_stocks": {
     "AAPL": {
       "symbol": "AAPL",
@@ -165,7 +220,85 @@
       "market_cap": 0.4
     }
   },
-  "korean_stocks": {},
+  "korean_stocks": {
+    "005930": {
+      "symbol": "005930",
+      "name": "삼성전자",
+      "sector": "반도체",
+      "price": 58100,
+      "change": -400,
+      "change_percent": "-0.68",
+      "high": 58800,
+      "low": 57900,
+      "volume": 12450000
+    },
+    "000660": {
+      "symbol": "000660",
+      "name": "SK하이닉스",
+      "sector": "반도체",
+      "price": 89500,
+      "change": 1200,
+      "change_percent": "1.36",
+      "high": 90200,
+      "low": 88700,
+      "volume": 2340000
+    },
+    "035420": {
+      "symbol": "035420",
+      "name": "NAVER",
+      "sector": "인터넷",
+      "price": 145200,
+      "change": -800,
+      "change_percent": "-0.55",
+      "high": 147000,
+      "low": 144500,
+      "volume": 567000
+    },
+    "051910": {
+      "symbol": "051910",
+      "name": "LG화학",
+      "sector": "화학",
+      "price": 284000,
+      "change": 3500,
+      "change_percent": "1.25",
+      "high": 285000,
+      "low": 281000,
+      "volume": 890000
+    },
+    "006400": {
+      "symbol": "006400",
+      "name": "삼성SDI",
+      "sector": "배터리",
+      "price": 318000,
+      "change": -5000,
+      "change_percent": "-1.55",
+      "high": 324000,
+      "low": 317000,
+      "volume": 432000
+    },
+    "207940": {
+      "symbol": "207940",
+      "name": "삼성바이오로직스",
+      "sector": "바이오",
+      "price": 672000,
+      "change": 8000,
+      "change_percent": "1.20",
+      "high": 678000,
+      "low": 668000,
+      "volume": 123000
+    },
+    "035720": {
+      "symbol": "035720",
+      "name": "카카오",
+      "sector": "인터넷",
+      "price": 47800,
+      "change": -600,
+      "change_percent": "-1.24",
+      "high": 48900,
+      "low": 47500,
+      "volume": 1890000
+    }
+  },
   "stock_themes": [
     {
       "name": "AI & 반도체",
@@ -237,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 108904,
-      "change_24h": -1.35,
-      "market_cap": 2178151249676.5264
+      "price": 108293,
+      "change_24h": -1.86,
+      "market_cap": 2160769688261.77
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3914.52,
-      "change_24h": -3.01,
-      "market_cap": 473977846258.7268
+      "price": 3878.91,
+      "change_24h": -3.91,
+      "market_cap": 468304721096.3896
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 1080.6,
-      "change_24h": -4.32,
-      "market_cap": 150529350628.0426
+      "price": 1074.41,
+      "change_24h": -4.75,
+      "market_cap": 149339766401.1421
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.650061,
-      "change_24h": -1.93,
-      "market_cap": 23771582366.80919
+      "price": 0.645161,
+      "change_24h": -2.84,
+      "market_cap": 23582566039.62134
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 185.51,
-      "change_24h": -3.12,
-      "market_cap": 101600529958.66183
+      "price": 184.09,
+      "change_24h": -3.89,
+      "market_cap": 100768855625.5018
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 2.45,
-      "change_24h": 0.53,
-      "market_cap": 147238143478.54028
+      "price": 2.43,
+      "change_24h": -0.28,
+      "market_cap": 146344276624.1363
     }
   },
   "real_estate": {
@@ -301,12 +434,13 @@
     "description": "신중한 낙관론에서 약간 하향 조정된 환경"
   },
   "stats": {
-    "total_assets_tracked": 16,
+    "total_assets_tracked": 29,
     "api_calls_made": {
       "alpha_vantage": 10,
-      "finnhub": 15,
-      "coingecko": 1
+      "finnhub": 0,
+      "coingecko": 1,
+      "fallback_used": true
     },
-    "data_freshness": "실시간"
+    "data_freshness": "혼합 (실시간 + 폴백)"
   }
 }
