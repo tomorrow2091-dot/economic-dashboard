@@ -1,13 +1,312 @@
 {
-  "version": "2.0",
-  "last_updated": "2025-10-21T01:27:34.173646",
-  "last_updated_display": "2025년 10월 21일 01:27 KST",
+  "version": "2.1",
+  "last_updated": "2025-10-21T12:35:59.465919",
+  "last_updated_display": "2025년 10월 21일 12:35 KST",
   "year": 2025,
-  "data_source": "GitHub 실시간 연동",
-  "countries": [],
+  "data_source": "GitHub 실시간 연동 (Finnhub + Alpha Vantage + CoinGecko)",
+  "market_status": {
+    "overall": "보합세",
+    "sentiment": "neutral",
+    "avg_change": 0,
+    "volume_trend": "보통"
+  },
+  "countries": [
+    {
+      "name": "미국",
+      "flag": "🇺🇸",
+      "growth_rate": 2.8,
+      "inflation": 3.2,
+      "interest_rate": 5.5,
+      "representative_company": "Apple (AAPL)",
+      "sector": "기술",
+      "market_impact": 90,
+      "description": "AI 기술 혁신과 소비 회복세",
+      "outlook": "positive"
+    },
+    {
+      "name": "중국",
+      "flag": "🇨🇳",
+      "growth_rate": 4.5,
+      "inflation": 0.8,
+      "interest_rate": 3.8,
+      "representative_company": "Alibaba (BABA)",
+      "sector": "전자상거래",
+      "market_impact": 75,
+      "description": "부동산 조정과 수출 회복",
+      "outlook": "neutral"
+    },
+    {
+      "name": "한국",
+      "flag": "🇰🇷",
+      "growth_rate": 1.8,
+      "inflation": 2.3,
+      "interest_rate": 3.5,
+      "representative_company": "삼성전자 (005930)",
+      "sector": "반도체",
+      "market_impact": 65,
+      "description": "반도체 회복과 내수 부진",
+      "outlook": "cautious"
+    },
+    {
+      "name": "일본",
+      "flag": "🇯🇵",
+      "growth_rate": 1.2,
+      "inflation": 2.8,
+      "interest_rate": 0.1,
+      "representative_company": "Toyota (TM)",
+      "sector": "자동차",
+      "market_impact": 60,
+      "description": "엔화 약세와 수출 증가",
+      "outlook": "neutral"
+    },
+    {
+      "name": "독일",
+      "flag": "🇩🇪",
+      "growth_rate": 0.8,
+      "inflation": 4.1,
+      "interest_rate": 4.5,
+      "representative_company": "SAP (SAP)",
+      "sector": "소프트웨어",
+      "market_impact": 55,
+      "description": "제조업 둔화와 에너지 전환",
+      "outlook": "cautious"
+    }
+  ],
   "indices": {},
-  "stock_themes": [],
-  "crypto": {},
-  "real_estate": {},
-  "gici": {}
+  "us_stocks": {
+    "AAPL": {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 262.24,
+      "change": 9.95,
+      "change_percent": "3.9439",
+      "volume": 90483029,
+      "market_cap": 3.5
+    },
+    "MSFT": {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp.",
+      "price": 516.79,
+      "change": 3.21,
+      "change_percent": "0.6250",
+      "volume": 14665620,
+      "market_cap": 3.1
+    },
+    "GOOGL": {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 256.55,
+      "change": 3.25,
+      "change_percent": "1.2831",
+      "volume": 22350155,
+      "market_cap": 2.1
+    },
+    "AMZN": {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc.",
+      "price": 216.48,
+      "change": 3.44,
+      "change_percent": "1.6147",
+      "volume": 38882819,
+      "market_cap": 1.8
+    },
+    "NVDA": {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp.",
+      "price": 182.64,
+      "change": -0.58,
+      "change_percent": "-0.3166",
+      "volume": 128544711,
+      "market_cap": 1.7
+    },
+    "TSLA": {
+      "symbol": "TSLA",
+      "name": "Tesla Inc.",
+      "price": 447.43,
+      "change": 8.12,
+      "change_percent": "1.8484",
+      "volume": 63718971,
+      "market_cap": 0.8
+    },
+    "META": {
+      "symbol": "META",
+      "name": "Meta Platforms Inc.",
+      "price": 732.17,
+      "change": 15.255,
+      "change_percent": "2.1279",
+      "volume": 8900204,
+      "market_cap": 1.3
+    },
+    "BRK-B": {
+      "symbol": "BRK-B",
+      "name": "Berkshire Hathaway",
+      "price": 494.08,
+      "change": 1.66,
+      "change_percent": "0.3371",
+      "volume": 4605314,
+      "market_cap": 0.9
+    },
+    "UNH": {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group",
+      "price": 364.48,
+      "change": 7.88,
+      "change_percent": "2.2098",
+      "volume": 5996541,
+      "market_cap": 0.5
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "price": 193.72,
+      "change": 0.5,
+      "change_percent": "0.2588",
+      "volume": 8034740,
+      "market_cap": 0.4
+    }
+  },
+  "korean_stocks": {},
+  "stock_themes": [
+    {
+      "name": "AI & 반도체",
+      "performance": 28.5,
+      "stocks": [
+        "NVDA",
+        "AMD",
+        "INTC",
+        "TSM",
+        "005930"
+      ],
+      "description": "AI 혁명과 반도체 슈퍼사이클",
+      "trend": "hot"
+    },
+    {
+      "name": "클린에너지",
+      "performance": 15.2,
+      "stocks": [
+        "TSLA",
+        "ENPH",
+        "FSLR",
+        "NIO",
+        "003670"
+      ],
+      "description": "탄소중립과 재생에너지 확산",
+      "trend": "rising"
+    },
+    {
+      "name": "헬스케어",
+      "performance": 12.8,
+      "stocks": [
+        "JNJ",
+        "PFE",
+        "ABBV",
+        "UNH",
+        "207940"
+      ],
+      "description": "고령화와 바이오 기술 발전",
+      "trend": "stable"
+    },
+    {
+      "name": "금융",
+      "performance": 8.3,
+      "stocks": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "GS",
+        "055550"
+      ],
+      "description": "금리 상승과 대출 수요 증가",
+      "trend": "stable"
+    },
+    {
+      "name": "전기차",
+      "performance": 22.1,
+      "stocks": [
+        "TSLA",
+        "BYD",
+        "NIO",
+        "XPEV",
+        "066570"
+      ],
+      "description": "전기차 시장 확산과 배터리 기술",
+      "trend": "hot"
+    }
+  ],
+  "crypto": {
+    "BTC": {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "price": 109552,
+      "change_24h": 0.59,
+      "market_cap": 2182824667929.0325
+    },
+    "ETH": {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "price": 3939.77,
+      "change_24h": -0.74,
+      "market_cap": 475068916862.71716
+    },
+    "BNB": {
+      "symbol": "BNB",
+      "name": "BNB",
+      "price": 1084.66,
+      "change_24h": -2.49,
+      "market_cap": 150877057976.18335
+    },
+    "ADA": {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "price": 0.653439,
+      "change_24h": 0.66,
+      "market_cap": 23896651132.97835
+    },
+    "SOL": {
+      "symbol": "SOL",
+      "name": "Solana",
+      "price": 186.48,
+      "change_24h": -0.31,
+      "market_cap": 101879473934.49512
+    },
+    "XRP": {
+      "symbol": "XRP",
+      "name": "XRP",
+      "price": 2.46,
+      "change_24h": 2.5,
+      "market_cap": 147303760264.20724
+    }
+  },
+  "real_estate": {
+    "us_reit_index": {
+      "value": 2850.5,
+      "change": 12.3,
+      "change_percent": "0.43"
+    },
+    "korea_reit": {
+      "value": 3420.0,
+      "change": -25.8,
+      "change_percent": "-0.75"
+    }
+  },
+  "gici": {
+    "global_investment_climate": 65,
+    "risk_factors": {
+      "geopolitical": 50,
+      "corporate_earnings": 58,
+      "asia_slowdown": 63,
+      "inflation": 45,
+      "interest_rates": 52
+    },
+    "description": "신중한 낙관론에서 약간 하향 조정된 환경"
+  },
+  "stats": {
+    "total_assets_tracked": 16,
+    "api_calls_made": {
+      "alpha_vantage": 10,
+      "finnhub": 15,
+      "coingecko": 1
+    },
+    "data_freshness": "실시간"
+  }
 }
