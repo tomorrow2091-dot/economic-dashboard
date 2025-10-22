@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-10-22T13:45:48.442049",
-  "last_updated_display": "2025년 10월 22일 13:45 KST",
+  "last_updated": "2025-10-22T14:22:02.626823",
+  "last_updated_display": "2025년 10월 22일 14:22 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -164,15 +164,6 @@
       "change_percent": "2.5637",
       "volume": 50494565,
       "market_cap": 1.8
-    },
-    "NVDA": {
-      "symbol": "NVDA",
-      "name": "NVIDIA Corp.",
-      "price": 181.16,
-      "change": -1.48,
-      "change_percent": "-0.8103",
-      "volume": 124240168,
-      "market_cap": 1.7
     },
     "TSLA": {
       "symbol": "TSLA",
@@ -370,44 +361,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 108542,
-      "change_24h": 0.57,
-      "market_cap": 2163738371194.112
+      "price": 108254,
+      "change_24h": 0.52,
+      "market_cap": 2159914786346.362
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3879.55,
-      "change_24h": 0.67,
-      "market_cap": 468346935237.443
+      "price": 3861.15,
+      "change_24h": 0.09,
+      "market_cap": 466644274413.32965
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 1074.62,
-      "change_24h": 0.92,
-      "market_cap": 149556303168.03827
+      "price": 1067.38,
+      "change_24h": -0.17,
+      "market_cap": 148859078986.03885
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.644274,
-      "change_24h": 0.45,
-      "market_cap": 23561140653.044506
+      "price": 0.639809,
+      "change_24h": -0.37,
+      "market_cap": 23403426149.18835
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 185.99,
-      "change_24h": 1.15,
-      "market_cap": 101698896650.8145
+      "price": 184.78,
+      "change_24h": 0.4,
+      "market_cap": 101306580937.82233
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 2.44,
-      "change_24h": 0.44,
-      "market_cap": 146074997095.31067
+      "price": 2.42,
+      "change_24h": -0.43,
+      "market_cap": 145528576813.47882
     }
   },
   "real_estate": {
@@ -434,7 +425,7 @@
     "description": "신중한 낙관론에서 약간 하향 조정된 환경"
   },
   "stats": {
-    "total_assets_tracked": 29,
+    "total_assets_tracked": 28,
     "api_calls_made": {
       "alpha_vantage": 10,
       "finnhub": 0,
