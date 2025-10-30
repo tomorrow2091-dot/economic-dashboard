@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-10-30T19:25:26.746781",
-  "last_updated_display": "2025년 10월 30일 19:25 KST",
+  "last_updated": "2025-10-30T19:45:37.222353",
+  "last_updated_display": "2025년 10월 30일 19:45 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -207,7 +207,7 @@
       "price": 355.26,
       "change": -12.58,
       "change_percent": "-3.4200",
-      "volume": 11524802,
+      "volume": 11874949,
       "market_cap": 0.5
     },
     "JNJ": {
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 110073,
-      "change_24h": -2.66,
-      "market_cap": 2193912586599.6597
+      "price": 109969,
+      "change_24h": -2.73,
+      "market_cap": 2193006641666.9805
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3902.9,
-      "change_24h": -2.4,
-      "market_cap": 470390088091.7596
+      "price": 3887.83,
+      "change_24h": -2.81,
+      "market_cap": 469253065902.2407
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 1126.43,
-      "change_24h": 1.11,
-      "market_cap": 154510724673.4565
+      "price": 1119.77,
+      "change_24h": 0.55,
+      "market_cap": 154526467203.35068
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.634994,
-      "change_24h": -1.99,
-      "market_cap": 23160785389.624126
+      "price": 0.63304,
+      "change_24h": -2.36,
+      "market_cap": 23184084601.067307
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 191.92,
-      "change_24h": -1.72,
-      "market_cap": 105469227734.12381
+      "price": 191.82,
+      "change_24h": -2.5,
+      "market_cap": 105561560739.94489
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 2.56,
-      "change_24h": -3.61,
-      "market_cap": 153622375793.26807
+      "price": 2.55,
+      "change_24h": -3.66,
+      "market_cap": 153230059243.78534
     }
   },
   "real_estate": {
