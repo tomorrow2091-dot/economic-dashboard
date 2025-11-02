@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-11-03T03:27:38.396644",
-  "last_updated_display": "2025년 11월 03일 03:27 KST",
+  "last_updated": "2025-11-03T03:45:11.000418",
+  "last_updated_display": "2025년 11월 03일 03:45 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -173,51 +173,6 @@
       "change_percent": "-0.1972",
       "volume": 179802178,
       "market_cap": 1.7
-    },
-    "TSLA": {
-      "symbol": "TSLA",
-      "name": "Tesla Inc.",
-      "price": 456.56,
-      "change": 16.46,
-      "change_percent": "3.7401",
-      "volume": 83135787,
-      "market_cap": 0.8
-    },
-    "META": {
-      "symbol": "META",
-      "name": "Meta Platforms Inc.",
-      "price": 648.35,
-      "change": -18.12,
-      "change_percent": "-2.7188",
-      "volume": 56953169,
-      "market_cap": 1.3
-    },
-    "BRK-B": {
-      "symbol": "BRK-B",
-      "name": "Berkshire Hathaway",
-      "price": 477.54,
-      "change": -0.98,
-      "change_percent": "-0.2048",
-      "volume": 7146403,
-      "market_cap": 0.9
-    },
-    "UNH": {
-      "symbol": "UNH",
-      "name": "UnitedHealth Group",
-      "price": 341.56,
-      "change": -3.19,
-      "change_percent": "-0.9253",
-      "volume": 8390831,
-      "market_cap": 0.5
-    },
-    "JNJ": {
-      "symbol": "JNJ",
-      "name": "Johnson & Johnson",
-      "price": 188.87,
-      "change": -0.18,
-      "change_percent": "-0.0952",
-      "volume": 8791666,
-      "market_cap": 0.4
     }
   },
   "korean_stocks": {
@@ -370,44 +325,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 110198,
-      "change_24h": -0.03,
-      "market_cap": 2198946148736.6008
+      "price": 110275,
+      "change_24h": 0.04,
+      "market_cap": 2197515477742.723
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3859.31,
-      "change_24h": -0.31,
-      "market_cap": 465935512238.3632
+      "price": 3865.18,
+      "change_24h": -0.26,
+      "market_cap": 466232287938.50635
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 1077.77,
-      "change_24h": -1.45,
-      "market_cap": 148504241354.70105
+      "price": 1079.23,
+      "change_24h": -1.28,
+      "market_cap": 148656493965.18747
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.599204,
-      "change_24h": -1.79,
-      "market_cap": 21914264567.55138
+      "price": 0.599957,
+      "change_24h": -1.75,
+      "market_cap": 21944346841.68751
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 184.28,
-      "change_24h": -0.45,
-      "market_cap": 101792061461.68677
+      "price": 184.38,
+      "change_24h": -0.51,
+      "market_cap": 101860129497.25461
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 2.49,
-      "change_24h": -0.28,
-      "market_cap": 149873912674.64728
+      "price": 2.5,
+      "change_24h": -0.09,
+      "market_cap": 149970096904.38467
     }
   },
   "real_estate": {
@@ -434,7 +389,7 @@
     "description": "신중한 낙관론에서 약간 하향 조정된 환경"
   },
   "stats": {
-    "total_assets_tracked": 29,
+    "total_assets_tracked": 24,
     "api_calls_made": {
       "alpha_vantage": 10,
       "finnhub": 0,
