@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-11-06T07:21:11.958701",
-  "last_updated_display": "2025년 11월 06일 07:21 KST",
+  "last_updated": "2025-11-06T07:42:25.034426",
+  "last_updated_display": "2025년 11월 06일 07:42 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -135,7 +135,7 @@
       "price": 270.14,
       "change": 0.1,
       "change_percent": "0.0370",
-      "volume": 43603990,
+      "volume": 43607729,
       "market_cap": 3.5
     },
     "MSFT": {
@@ -144,7 +144,7 @@
       "price": 507.16,
       "change": -7.17,
       "change_percent": "-1.3940",
-      "volume": 22944362,
+      "volume": 22953447,
       "market_cap": 3.1
     },
     "GOOGL": {
@@ -153,7 +153,7 @@
       "price": 284.31,
       "change": 6.77,
       "change_percent": "2.4393",
-      "volume": 30348956,
+      "volume": 30356556,
       "market_cap": 2.1
     },
     "AMZN": {
@@ -162,7 +162,7 @@
       "price": 250.2,
       "change": 0.88,
       "change_percent": "0.3530",
-      "volume": 39276066,
+      "volume": 39291194,
       "market_cap": 1.8
     },
     "NVDA": {
@@ -171,16 +171,16 @@
       "price": 195.21,
       "change": -3.48,
       "change_percent": "-1.7515",
-      "volume": 168044949,
+      "volume": 168218367,
       "market_cap": 1.7
     },
     "TSLA": {
       "symbol": "TSLA",
       "name": "Tesla Inc.",
-      "price": 462.07,
-      "change": 17.81,
-      "change_percent": "4.0089",
-      "volume": 85123567,
+      "price": 444.26,
+      "change": -24.11,
+      "change_percent": "-5.1476",
+      "volume": 87756644,
       "market_cap": 0.8
     },
     "META": {
@@ -189,7 +189,7 @@
       "price": 635.95,
       "change": 8.63,
       "change_percent": "1.3757",
-      "volume": 20131260,
+      "volume": 20146580,
       "market_cap": 1.3
     },
     "BRK-B": {
@@ -198,7 +198,7 @@
       "price": 489.37,
       "change": 1.71,
       "change_percent": "0.3507",
-      "volume": 6441568,
+      "volume": 6458697,
       "market_cap": 0.9
     },
     "UNH": {
@@ -207,16 +207,16 @@
       "price": 327.79,
       "change": -3.04,
       "change_percent": "-0.9189",
-      "volume": 9223793,
+      "volume": 9227058,
       "market_cap": 0.5
     },
     "JNJ": {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "price": 186.01,
-      "change": -0.85,
-      "change_percent": "-0.4549",
-      "volume": 5048748,
+      "price": 186.86,
+      "change": 0.6,
+      "change_percent": "0.3221",
+      "volume": 7209395,
       "market_cap": 0.4
     }
   },
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 103393,
-      "change_24h": 2.34,
-      "market_cap": 2062618487251.758
+      "price": 103603,
+      "change_24h": 2.17,
+      "market_cap": 2065910195677.388
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3420.83,
-      "change_24h": 5.04,
-      "market_cap": 412835962495.6983
+      "price": 3432.64,
+      "change_24h": 5.44,
+      "market_cap": 413871650607.0098
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 953.51,
-      "change_24h": 2.59,
-      "market_cap": 131384709427.13419
+      "price": 957.83,
+      "change_24h": 2.48,
+      "market_cap": 131673959996.99005
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.543689,
-      "change_24h": 4.69,
-      "market_cap": 19900346856.16439
+      "price": 0.547675,
+      "change_24h": 5.07,
+      "market_cap": 20025507425.925247
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 161.71,
-      "change_24h": 5.51,
-      "market_cap": 89409012988.17174
+      "price": 162.3,
+      "change_24h": 5.15,
+      "market_cap": 89687735338.27306
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "price": 2.34,
-      "change_24h": 6.85,
-      "market_cap": 140731190048.44876
+      "change_24h": 5.85,
+      "market_cap": 140797101714.18735
     }
   },
   "real_estate": {
