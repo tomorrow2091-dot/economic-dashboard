@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-11-10T03:45:38.781497",
-  "last_updated_display": "2025년 11월 10일 03:45 KST",
+  "last_updated": "2025-11-10T04:15:59.392078",
+  "last_updated_display": "2025년 11월 10일 04:15 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -200,24 +200,6 @@
       "change_percent": "1.1984",
       "volume": 6377764,
       "market_cap": 0.9
-    },
-    "UNH": {
-      "symbol": "UNH",
-      "name": "UnitedHealth Group",
-      "price": 324.21,
-      "change": 2.65,
-      "change_percent": "0.8241",
-      "volume": 9402873,
-      "market_cap": 0.5
-    },
-    "JNJ": {
-      "symbol": "JNJ",
-      "name": "Johnson & Johnson",
-      "price": 186.57,
-      "change": -0.4,
-      "change_percent": "-0.2139",
-      "volume": 6959209,
-      "market_cap": 0.4
     }
   },
   "korean_stocks": {
@@ -370,44 +352,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 103834,
-      "change_24h": 1.78,
-      "market_cap": 2071201692049.3171
+      "price": 104206,
+      "change_24h": 2.41,
+      "market_cap": 2079034392779.0857
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3524.06,
-      "change_24h": 3.79,
-      "market_cap": 425381649589.87103
+      "price": 3538.09,
+      "change_24h": 4.54,
+      "market_cap": 427102528400.94727
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 995.5,
-      "change_24h": -0.37,
-      "market_cap": 137117623684.57326
+      "price": 997.78,
+      "change_24h": 0.02,
+      "market_cap": 137460734536.0149
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.571351,
-      "change_24h": 1.93,
-      "market_cap": 20904722013.760735
+      "price": 0.577028,
+      "change_24h": 3.12,
+      "market_cap": 21113755897.754482
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 162.38,
-      "change_24h": 2.98,
-      "market_cap": 89784299570.12294
+      "price": 163.63,
+      "change_24h": 3.97,
+      "market_cap": 90568564998.98009
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 2.31,
-      "change_24h": 1.83,
-      "market_cap": 139125963812.1525
+      "price": 2.33,
+      "change_24h": 2.71,
+      "market_cap": 139910988485.83374
     }
   },
   "real_estate": {
@@ -434,7 +416,7 @@
     "description": "신중한 낙관론에서 약간 하향 조정된 환경"
   },
   "stats": {
-    "total_assets_tracked": 29,
+    "total_assets_tracked": 27,
     "api_calls_made": {
       "alpha_vantage": 10,
       "finnhub": 0,
