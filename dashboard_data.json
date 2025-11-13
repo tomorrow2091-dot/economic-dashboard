@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-11-14T07:41:51.640797",
-  "last_updated_display": "2025년 11월 14일 07:41 KST",
+  "last_updated": "2025-11-14T07:53:46.546428",
+  "last_updated_display": "2025년 11월 14일 07:53 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -135,7 +135,7 @@
       "price": 272.95,
       "change": -0.52,
       "change_percent": "-0.1901",
-      "volume": 49481959,
+      "volume": 49504514,
       "market_cap": 3.5
     },
     "MSFT": {
@@ -144,16 +144,16 @@
       "price": 503.29,
       "change": -7.85,
       "change_percent": "-1.5358",
-      "volume": 25239792,
+      "volume": 25241503,
       "market_cap": 3.1
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "price": 278.57,
-      "change": -8.14,
-      "change_percent": "-2.8391",
-      "volume": 29425061,
+      "price": 286.71,
+      "change": -4.6,
+      "change_percent": "-1.5791",
+      "volume": 24829923,
       "market_cap": 2.1
     },
     "AMZN": {
@@ -162,16 +162,16 @@
       "price": 237.58,
       "change": -6.62,
       "change_percent": "-2.7109",
-      "volume": 41287594,
+      "volume": 41295515,
       "market_cap": 1.8
     },
     "NVDA": {
       "symbol": "NVDA",
       "name": "NVIDIA Corp.",
-      "price": 193.8,
-      "change": 0.64,
-      "change_percent": "0.3313",
-      "volume": 154935263,
+      "price": 186.86,
+      "change": -6.94,
+      "change_percent": "-3.5810",
+      "volume": 206470634,
       "market_cap": 1.7
     },
     "TSLA": {
@@ -180,7 +180,7 @@
       "price": 401.99,
       "change": -28.61,
       "change_percent": "-6.6442",
-      "volume": 118256903,
+      "volume": 118308786,
       "market_cap": 0.8
     },
     "META": {
@@ -189,7 +189,7 @@
       "price": 609.89,
       "change": 0.88,
       "change_percent": "0.1445",
-      "volume": 20899716,
+      "volume": 20907208,
       "market_cap": 1.3
     },
     "BRK-B": {
@@ -198,7 +198,7 @@
       "price": 513.42,
       "change": 11.02,
       "change_percent": "2.1935",
-      "volume": 7329965,
+      "volume": 7330707,
       "market_cap": 0.9
     },
     "UNH": {
@@ -207,7 +207,7 @@
       "price": 332.63,
       "change": -6.43,
       "change_percent": "-1.8964",
-      "volume": 7772187,
+      "volume": 7773034,
       "market_cap": 0.5
     },
     "JNJ": {
@@ -216,7 +216,7 @@
       "price": 195.29,
       "change": 0.9,
       "change_percent": "0.4630",
-      "volume": 8629839,
+      "volume": 8629983,
       "market_cap": 0.4
     }
   },
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 99787,
+      "price": 99805,
       "change_24h": -1.95,
-      "market_cap": 1987720968659.9934
+      "market_cap": 1990536829386.1743
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3228.12,
-      "change_24h": -5.44,
-      "market_cap": 389163033739.0595
+      "price": 3232.29,
+      "change_24h": -5.38,
+      "market_cap": 389668255225.8916
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 923.55,
-      "change_24h": -3.23,
-      "market_cap": 127146190708.18863
+      "price": 923.48,
+      "change_24h": -3.44,
+      "market_cap": 127083916510.19649
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.527475,
-      "change_24h": -3.68,
-      "market_cap": 19319145927.746128
+      "price": 0.528683,
+      "change_24h": -3.55,
+      "market_cap": 19334767239.39878
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 144.34,
-      "change_24h": -5.77,
-      "market_cap": 79744560010.29707
+      "price": 144.33,
+      "change_24h": -6.0,
+      "market_cap": 79862452110.48553
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 2.32,
-      "change_24h": -2.05,
-      "market_cap": 139246284013.36398
+      "price": 2.33,
+      "change_24h": -2.15,
+      "market_cap": 139791263106.35483
     }
   },
   "real_estate": {
