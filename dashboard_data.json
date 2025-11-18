@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-11-19T06:51:54.109479",
-  "last_updated_display": "2025년 11월 19일 06:51 KST",
+  "last_updated": "2025-11-19T07:22:37.109562",
+  "last_updated_display": "2025년 11월 19일 07:22 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -135,7 +135,7 @@
       "price": 267.44,
       "change": -0.02,
       "change_percent": "-0.0075",
-      "volume": 43685518,
+      "volume": 45566511,
       "market_cap": 3.5
     },
     "MSFT": {
@@ -144,7 +144,7 @@
       "price": 493.79,
       "change": -13.7,
       "change_percent": "-2.6996",
-      "volume": 32723754,
+      "volume": 33748305,
       "market_cap": 3.1
     },
     "GOOGL": {
@@ -153,17 +153,8 @@
       "price": 284.28,
       "change": -0.74,
       "change_percent": "-0.2596",
-      "volume": 48948655,
+      "volume": 49047940,
       "market_cap": 2.1
-    },
-    "AMZN": {
-      "symbol": "AMZN",
-      "name": "Amazon.com Inc.",
-      "price": 222.55,
-      "change": -10.32,
-      "change_percent": "-4.4317",
-      "volume": 60306985,
-      "market_cap": 1.8
     },
     "NVDA": {
       "symbol": "NVDA",
@@ -171,7 +162,7 @@
       "price": 181.36,
       "change": -5.24,
       "change_percent": "-2.8081",
-      "volume": 211642336,
+      "volume": 212067010,
       "market_cap": 1.7
     },
     "TSLA": {
@@ -180,7 +171,7 @@
       "price": 401.25,
       "change": -7.67,
       "change_percent": "-1.8757",
-      "volume": 80055965,
+      "volume": 80164097,
       "market_cap": 0.8
     },
     "META": {
@@ -189,7 +180,7 @@
       "price": 597.69,
       "change": -4.32,
       "change_percent": "-0.7176",
-      "volume": 25368573,
+      "volume": 25394269,
       "market_cap": 1.3
     },
     "BRK-B": {
@@ -198,7 +189,7 @@
       "price": 504.27,
       "change": 1.01,
       "change_percent": "0.2007",
-      "volume": 5412630,
+      "volume": 5454389,
       "market_cap": 0.9
     },
     "UNH": {
@@ -207,7 +198,7 @@
       "price": 313.615,
       "change": -6.905,
       "change_percent": "-2.1543",
-      "volume": 9149355,
+      "volume": 9157847,
       "market_cap": 0.5
     },
     "JNJ": {
@@ -216,7 +207,7 @@
       "price": 200.02,
       "change": 0.44,
       "change_percent": "0.2205",
-      "volume": 12430949,
+      "volume": 12466807,
       "market_cap": 0.4
     }
   },
@@ -370,44 +361,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 92512,
-      "change_24h": 0.83,
-      "market_cap": 1846454223192.0535
+      "price": 93157,
+      "change_24h": 1.24,
+      "market_cap": 1850132164755.2437
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3102.52,
-      "change_24h": 3.47,
-      "market_cap": 374176615758.83734
+      "price": 3119.54,
+      "change_24h": 3.28,
+      "market_cap": 375104419036.06067
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 929.64,
-      "change_24h": 3.26,
-      "market_cap": 128111270421.96272
+      "price": 933.46,
+      "change_24h": 3.29,
+      "market_cap": 128402641570.25992
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.47286,
-      "change_24h": 3.12,
-      "market_cap": 17338214856.89
+      "price": 0.477152,
+      "change_24h": 3.08,
+      "market_cap": 17364820612.46974
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 139.85,
-      "change_24h": 7.36,
-      "market_cap": 77527725443.07225
+      "price": 140.83,
+      "change_24h": 7.4,
+      "market_cap": 77620050383.9663
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 2.21,
-      "change_24h": 3.09,
-      "market_cap": 133056029345.04749
+      "price": 2.23,
+      "change_24h": 3.13,
+      "market_cap": 133105104175.27315
     }
   },
   "real_estate": {
@@ -434,7 +425,7 @@
     "description": "신중한 낙관론에서 약간 하향 조정된 환경"
   },
   "stats": {
-    "total_assets_tracked": 29,
+    "total_assets_tracked": 28,
     "api_calls_made": {
       "alpha_vantage": 10,
       "finnhub": 0,
