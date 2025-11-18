@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-11-19T07:42:50.219839",
-  "last_updated_display": "2025년 11월 19일 07:42 KST",
+  "last_updated": "2025-11-19T07:54:53.080516",
+  "last_updated_display": "2025년 11월 19일 07:54 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -135,7 +135,7 @@
       "price": 267.44,
       "change": -0.02,
       "change_percent": "-0.0075",
-      "volume": 45571195,
+      "volume": 45574706,
       "market_cap": 3.5
     },
     "MSFT": {
@@ -144,7 +144,7 @@
       "price": 493.79,
       "change": -13.7,
       "change_percent": "-2.6996",
-      "volume": 33769225,
+      "volume": 33771432,
       "market_cap": 3.1
     },
     "GOOGL": {
@@ -153,7 +153,7 @@
       "price": 284.28,
       "change": -0.74,
       "change_percent": "-0.2596",
-      "volume": 49057925,
+      "volume": 49067395,
       "market_cap": 2.1
     },
     "AMZN": {
@@ -162,7 +162,7 @@
       "price": 222.55,
       "change": -10.32,
       "change_percent": "-4.4317",
-      "volume": 60385326,
+      "volume": 60403830,
       "market_cap": 1.8
     },
     "NVDA": {
@@ -171,7 +171,7 @@
       "price": 181.36,
       "change": -5.24,
       "change_percent": "-2.8081",
-      "volume": 212193800,
+      "volume": 212288271,
       "market_cap": 1.7
     },
     "TSLA": {
@@ -180,16 +180,16 @@
       "price": 401.25,
       "change": -7.67,
       "change_percent": "-1.8757",
-      "volume": 80191386,
+      "volume": 80226179,
       "market_cap": 0.8
     },
     "META": {
       "symbol": "META",
       "name": "Meta Platforms Inc.",
-      "price": 602.01,
-      "change": -7.45,
-      "change_percent": "-1.2224",
-      "volume": 16501331,
+      "price": 597.69,
+      "change": -4.32,
+      "change_percent": "-0.7176",
+      "volume": 25419461,
       "market_cap": 1.3
     },
     "BRK-B": {
@@ -198,7 +198,7 @@
       "price": 504.27,
       "change": 1.01,
       "change_percent": "0.2007",
-      "volume": 5454583,
+      "volume": 5455157,
       "market_cap": 0.9
     },
     "UNH": {
@@ -207,7 +207,7 @@
       "price": 313.615,
       "change": -6.905,
       "change_percent": "-2.1543",
-      "volume": 9161035,
+      "volume": 9162354,
       "market_cap": 0.5
     },
     "JNJ": {
@@ -216,7 +216,7 @@
       "price": 200.02,
       "change": 0.44,
       "change_percent": "0.2205",
-      "volume": 12466839,
+      "volume": 12466941,
       "market_cap": 0.4
     }
   },
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 93257,
-      "change_24h": 1.13,
-      "market_cap": 1859993204097.1545
+      "price": 93155,
+      "change_24h": 1.08,
+      "market_cap": 1858302906867.5002
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3122.5,
-      "change_24h": 3.45,
-      "market_cap": 376941884685.23584
+      "price": 3123.92,
+      "change_24h": 3.39,
+      "market_cap": 376982431561.7047
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 934.33,
-      "change_24h": 2.86,
-      "market_cap": 128602121765.89433
+      "price": 934.07,
+      "change_24h": 3.09,
+      "market_cap": 128661714905.84326
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.479304,
-      "change_24h": 3.16,
-      "market_cap": 17540540715.08184
+      "price": 0.478592,
+      "change_24h": 3.11,
+      "market_cap": 17517724167.20156
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 141.49,
-      "change_24h": 7.52,
-      "market_cap": 78394839852.76743
+      "price": 141.33,
+      "change_24h": 7.48,
+      "market_cap": 78332694371.6487
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "price": 2.23,
-      "change_24h": 2.77,
-      "market_cap": 134032285554.13892
+      "change_24h": 2.95,
+      "market_cap": 133925308447.41858
     }
   },
   "real_estate": {
