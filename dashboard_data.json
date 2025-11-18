@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-11-18T23:45:50.733019",
-  "last_updated_display": "2025년 11월 18일 23:45 KST",
+  "last_updated": "2025-11-19T00:26:22.065686",
+  "last_updated_display": "2025년 11월 19일 00:26 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -129,15 +129,6 @@
     }
   },
   "us_stocks": {
-    "AAPL": {
-      "symbol": "AAPL",
-      "name": "Apple Inc.",
-      "price": 267.46,
-      "change": -4.95,
-      "change_percent": "-1.8171",
-      "volume": 45018260,
-      "market_cap": 3.5
-    },
     "MSFT": {
       "symbol": "MSFT",
       "name": "Microsoft Corp.",
@@ -156,6 +147,24 @@
       "volume": 52670192,
       "market_cap": 2.1
     },
+    "AMZN": {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc.",
+      "price": 232.87,
+      "change": -1.82,
+      "change_percent": "-0.7755",
+      "volume": 59919018,
+      "market_cap": 1.8
+    },
+    "NVDA": {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp.",
+      "price": 186.6,
+      "change": -3.57,
+      "change_percent": "-1.8773",
+      "volume": 173628858,
+      "market_cap": 1.7
+    },
     "TSLA": {
       "symbol": "TSLA",
       "name": "Tesla Inc.",
@@ -173,6 +182,15 @@
       "change_percent": "-1.2224",
       "volume": 16501331,
       "market_cap": 1.3
+    },
+    "BRK-B": {
+      "symbol": "BRK-B",
+      "name": "Berkshire Hathaway",
+      "price": 503.26,
+      "change": -5.68,
+      "change_percent": "-1.1160",
+      "volume": 5371012,
+      "market_cap": 0.9
     },
     "UNH": {
       "symbol": "UNH",
@@ -343,44 +361,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 91602,
-      "change_24h": -3.7,
-      "market_cap": 1827160627011.8645
+      "price": 92729,
+      "change_24h": -1.9,
+      "market_cap": 1845960295991.206
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3070.76,
-      "change_24h": -3.38,
-      "market_cap": 369866980993.2622
+      "price": 3107.35,
+      "change_24h": -1.33,
+      "market_cap": 374921465249.03235
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 918.16,
-      "change_24h": -0.5,
-      "market_cap": 126584244110.78783
+      "price": 923.62,
+      "change_24h": 0.63,
+      "market_cap": 127289210401.15567
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.467002,
-      "change_24h": -4.88,
-      "market_cap": 17121471220.96641
+      "price": 0.472835,
+      "change_24h": -1.67,
+      "market_cap": 17256570414.781082
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 138.6,
-      "change_24h": -1.95,
-      "market_cap": 76855302915.77032
+      "price": 140.31,
+      "change_24h": 1.31,
+      "market_cap": 77591548001.25198
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 2.18,
-      "change_24h": -4.05,
-      "market_cap": 131552803327.57309
+      "price": 2.21,
+      "change_24h": -0.5,
+      "market_cap": 132659762762.21101
     }
   },
   "real_estate": {
@@ -407,7 +425,7 @@
     "description": "신중한 낙관론에서 약간 하향 조정된 환경"
   },
   "stats": {
-    "total_assets_tracked": 26,
+    "total_assets_tracked": 28,
     "api_calls_made": {
       "alpha_vantage": 10,
       "finnhub": 0,
