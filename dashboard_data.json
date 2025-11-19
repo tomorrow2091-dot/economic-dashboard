@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-11-20T06:51:37.994639",
-  "last_updated_display": "2025년 11월 20일 06:51 KST",
+  "last_updated": "2025-11-20T07:21:41.067472",
+  "last_updated_display": "2025년 11월 20일 07:21 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -135,16 +135,16 @@
       "price": 268.56,
       "change": 1.12,
       "change_percent": "0.4188",
-      "volume": 39294996,
+      "volume": 40236734,
       "market_cap": 3.5
     },
     "MSFT": {
       "symbol": "MSFT",
       "name": "Microsoft Corp.",
-      "price": 487.12,
-      "change": -6.67,
-      "change_percent": "-1.3508",
-      "volume": 22498582,
+      "price": 493.79,
+      "change": -13.7,
+      "change_percent": "-2.6996",
+      "volume": 33815114,
       "market_cap": 3.1
     },
     "GOOGL": {
@@ -153,7 +153,7 @@
       "price": 292.81,
       "change": 8.53,
       "change_percent": "3.0006",
-      "volume": 66861534,
+      "volume": 67329603,
       "market_cap": 2.1
     },
     "AMZN": {
@@ -162,7 +162,7 @@
       "price": 222.69,
       "change": 0.14,
       "change_percent": "0.0629",
-      "volume": 56633600,
+      "volume": 57824904,
       "market_cap": 1.8
     },
     "NVDA": {
@@ -171,16 +171,16 @@
       "price": 186.52,
       "change": 5.16,
       "change_percent": "2.8452",
-      "volume": 221595026,
+      "volume": 232626033,
       "market_cap": 1.7
     },
     "TSLA": {
       "symbol": "TSLA",
       "name": "Tesla Inc.",
-      "price": 401.25,
-      "change": -7.67,
-      "change_percent": "-1.8757",
-      "volume": 80688637,
+      "price": 403.99,
+      "change": 2.74,
+      "change_percent": "0.6829",
+      "volume": 70752357,
       "market_cap": 0.8
     },
     "META": {
@@ -189,35 +189,8 @@
       "price": 590.32,
       "change": -7.37,
       "change_percent": "-1.2331",
-      "volume": 24159521,
+      "volume": 24417551,
       "market_cap": 1.3
-    },
-    "BRK-B": {
-      "symbol": "BRK-B",
-      "name": "Berkshire Hathaway",
-      "price": 504.37,
-      "change": 1.11,
-      "change_percent": "0.2206",
-      "volume": 5457398,
-      "market_cap": 0.9
-    },
-    "UNH": {
-      "symbol": "UNH",
-      "name": "UnitedHealth Group",
-      "price": 309.08,
-      "change": -4.5,
-      "change_percent": "-1.4350",
-      "volume": 8101868,
-      "market_cap": 0.5
-    },
-    "JNJ": {
-      "symbol": "JNJ",
-      "name": "Johnson & Johnson",
-      "price": 202.66,
-      "change": 2.66,
-      "change_percent": "1.3300",
-      "volume": 14682613,
-      "market_cap": 0.4
     }
   },
   "korean_stocks": {
@@ -370,44 +343,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 90459,
-      "change_24h": -2.24,
-      "market_cap": 1802474943478.3467
+      "price": 90074,
+      "change_24h": -3.24,
+      "market_cap": 1799628147763.601
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2986.05,
-      "change_24h": -3.65,
-      "market_cap": 359873193646.89526
+      "price": 2960.66,
+      "change_24h": -5.04,
+      "market_cap": 357941132877.75867
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 896.14,
-      "change_24h": -3.52,
-      "market_cap": 123359621471.27382
+      "price": 889.75,
+      "change_24h": -4.62,
+      "market_cap": 122626112150.20363
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.458069,
-      "change_24h": -3.15,
-      "market_cap": 16760229427.67696
+      "price": 0.45525,
+      "change_24h": -4.53,
+      "market_cap": 16676756915.615145
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 135.18,
-      "change_24h": -3.36,
-      "market_cap": 74867061280.3571
+      "price": 134.42,
+      "change_24h": -4.45,
+      "market_cap": 74805592938.00249
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 2.09,
-      "change_24h": -5.58,
-      "market_cap": 125325574916.95972
+      "price": 2.07,
+      "change_24h": -6.88,
+      "market_cap": 125079611228.84476
     }
   },
   "real_estate": {
@@ -434,7 +407,7 @@
     "description": "신중한 낙관론에서 약간 하향 조정된 환경"
   },
   "stats": {
-    "total_assets_tracked": 29,
+    "total_assets_tracked": 26,
     "api_calls_made": {
       "alpha_vantage": 10,
       "finnhub": 0,
