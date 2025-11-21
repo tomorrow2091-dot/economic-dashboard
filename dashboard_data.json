@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-11-21T19:28:49.005626",
-  "last_updated_display": "2025년 11월 21일 19:28 KST",
+  "last_updated": "2025-11-21T19:46:36.170057",
+  "last_updated_display": "2025년 11월 21일 19:46 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -171,7 +171,7 @@
       "price": 180.64,
       "change": -5.88,
       "change_percent": "-3.1525",
-      "volume": 336479280,
+      "volume": 343504849,
       "market_cap": 1.7
     },
     "TSLA": {
@@ -180,7 +180,7 @@
       "price": 395.23,
       "change": -8.76,
       "change_percent": "-2.1684",
-      "volume": 110857282,
+      "volume": 113548827,
       "market_cap": 0.8
     },
     "META": {
@@ -189,7 +189,7 @@
       "price": 589.15,
       "change": -1.17,
       "change_percent": "-0.1982",
-      "volume": 20329771,
+      "volume": 20603024,
       "market_cap": 1.3
     },
     "BRK-B": {
@@ -207,7 +207,7 @@
       "price": 311.54,
       "change": 2.45,
       "change_percent": "0.7926",
-      "volume": 7246474,
+      "volume": 7337568,
       "market_cap": 0.5
     },
     "JNJ": {
@@ -216,7 +216,7 @@
       "price": 203.07,
       "change": 0.56,
       "change_percent": "0.2765",
-      "volume": 9709316,
+      "volume": 10612550,
       "market_cap": 0.4
     }
   },
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 81987,
-      "change_24h": -10.81,
-      "market_cap": 1637309010969.9429
+      "price": 82402,
+      "change_24h": -10.14,
+      "market_cap": 1645035499120.9395
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2684.01,
-      "change_24h": -10.65,
-      "market_cap": 324792855025.09143
+      "price": 2701.19,
+      "change_24h": -10.14,
+      "market_cap": 326222123207.7485
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 807.1,
-      "change_24h": -10.4,
-      "market_cap": 111258960038.8716
+      "price": 812.99,
+      "change_24h": -9.6,
+      "market_cap": 112143469188.98831
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.402712,
-      "change_24h": -13.6,
-      "market_cap": 14728952824.142826
+      "price": 0.404691,
+      "change_24h": -12.93,
+      "market_cap": 14824739520.41544
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 125.26,
-      "change_24h": -11.68,
-      "market_cap": 70191449702.28787
+      "price": 125.51,
+      "change_24h": -11.45,
+      "market_cap": 70174643117.97011
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "price": 1.9,
-      "change_24h": -10.5,
-      "market_cap": 114173812854.329
+      "change_24h": -10.3,
+      "market_cap": 114482712835.8676
     }
   },
   "real_estate": {
