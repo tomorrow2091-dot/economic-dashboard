@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-12-03T06:39:55.260173",
-  "last_updated_display": "2025년 12월 03일 06:39 KST",
+  "last_updated": "2025-12-03T06:52:04.314693",
+  "last_updated_display": "2025년 12월 03일 06:52 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -135,7 +135,7 @@
       "price": 286.19,
       "change": 3.09,
       "change_percent": "1.0915",
-      "volume": 52592214,
+      "volume": 52595584,
       "market_cap": 3.5
     },
     "MSFT": {
@@ -144,7 +144,7 @@
       "price": 490.0,
       "change": 3.26,
       "change_percent": "0.6698",
-      "volume": 18509084,
+      "volume": 18512222,
       "market_cap": 3.1
     },
     "GOOGL": {
@@ -153,7 +153,7 @@
       "price": 315.81,
       "change": 0.92,
       "change_percent": "0.2922",
-      "volume": 34167765,
+      "volume": 34176261,
       "market_cap": 2.1
     },
     "AMZN": {
@@ -162,25 +162,25 @@
       "price": 234.42,
       "change": 0.54,
       "change_percent": "0.2309",
-      "volume": 45534799,
+      "volume": 45548273,
       "market_cap": 1.8
     },
     "NVDA": {
       "symbol": "NVDA",
       "name": "NVIDIA Corp.",
-      "price": 179.92,
-      "change": 2.92,
-      "change_percent": "1.6497",
-      "volume": 188130955,
+      "price": 181.46,
+      "change": 1.54,
+      "change_percent": "0.8559",
+      "volume": 178885054,
       "market_cap": 1.7
     },
     "TSLA": {
       "symbol": "TSLA",
       "name": "Tesla Inc.",
-      "price": 430.14,
-      "change": -0.03,
-      "change_percent": "-0.0070",
-      "volume": 57463552,
+      "price": 429.24,
+      "change": -0.9,
+      "change_percent": "-0.2092",
+      "volume": 69039721,
       "market_cap": 0.8
     },
     "META": {
@@ -189,7 +189,7 @@
       "price": 647.1,
       "change": 6.23,
       "change_percent": "0.9721",
-      "volume": 11548863,
+      "volume": 11550674,
       "market_cap": 1.3
     },
     "BRK-B": {
@@ -198,7 +198,7 @@
       "price": 506.52,
       "change": -2.03,
       "change_percent": "-0.3992",
-      "volume": 3294209,
+      "volume": 3294623,
       "market_cap": 0.9
     },
     "UNH": {
@@ -207,7 +207,7 @@
       "price": 324.565,
       "change": 1.355,
       "change_percent": "0.4192",
-      "volume": 7516534,
+      "volume": 7519457,
       "market_cap": 0.5
     },
     "JNJ": {
@@ -216,7 +216,7 @@
       "price": 205.37,
       "change": 0.03,
       "change_percent": "0.0146",
-      "volume": 8386593,
+      "volume": 8386630,
       "market_cap": 0.4
     }
   },
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 91477,
-      "change_24h": 5.92,
-      "market_cap": 1824885953205.2185
+      "price": 91605,
+      "change_24h": 5.99,
+      "market_cap": 1825848740889.0571
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2993.03,
-      "change_24h": 7.18,
-      "market_cap": 361087872561.26105
+      "price": 2993.22,
+      "change_24h": 7.37,
+      "market_cap": 360658752294.3988
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 877.37,
-      "change_24h": 6.46,
-      "market_cap": 120785212786.52072
+      "price": 877.6,
+      "change_24h": 6.75,
+      "market_cap": 120879645341.69041
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.437118,
-      "change_24h": 14.44,
-      "market_cap": 15999170573.05662
+      "price": 0.43698,
+      "change_24h": 14.79,
+      "market_cap": 16002878809.80701
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 138.83,
+      "price": 138.84,
       "change_24h": 10.32,
-      "market_cap": 77711561089.81268
+      "market_cap": 77695333581.24968
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "price": 2.17,
-      "change_24h": 6.46,
-      "market_cap": 130919957675.8209
+      "change_24h": 7.13,
+      "market_cap": 130841341677.31677
     }
   },
   "real_estate": {
