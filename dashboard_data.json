@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-12-05T08:52:35.913135",
-  "last_updated_display": "2025년 12월 05일 08:52 KST",
+  "last_updated": "2025-12-05T10:52:51.992154",
+  "last_updated_display": "2025년 12월 05일 10:52 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -198,7 +198,7 @@
       "price": 503.23,
       "change": -0.37,
       "change_percent": "-0.0735",
-      "volume": 3538410,
+      "volume": 3504576,
       "market_cap": 0.9
     },
     "UNH": {
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 92145,
-      "change_24h": -1.54,
-      "market_cap": 1839369557445.9072
+      "price": 92373,
+      "change_24h": -0.98,
+      "market_cap": 1845802158033.1675
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3134.28,
-      "change_24h": -1.86,
-      "market_cap": 378383036980.8902
+      "price": 3166.6,
+      "change_24h": -1.18,
+      "market_cap": 382442684848.5496
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 900.02,
-      "change_24h": -2.36,
-      "market_cap": 123964878213.4654
+      "price": 905.15,
+      "change_24h": -1.75,
+      "market_cap": 124933798359.83589
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.439361,
-      "change_24h": -2.45,
-      "market_cap": 16090507018.55428
+      "price": 0.440216,
+      "change_24h": -2.2,
+      "market_cap": 16123837242.162651
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 139.01,
-      "change_24h": -4.24,
-      "market_cap": 77812007832.529
+      "price": 139.98,
+      "change_24h": -3.25,
+      "market_cap": 78374757236.55249
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 2.1,
-      "change_24h": -4.78,
-      "market_cap": 126486491841.91081
+      "price": 2.11,
+      "change_24h": -4.06,
+      "market_cap": 127238722145.01367
     }
   },
   "real_estate": {
