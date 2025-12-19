@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2025-12-19T10:55:14.962109",
-  "last_updated_display": "2025년 12월 19일 10:55 KST",
+  "last_updated": "2025-12-19T12:26:44.459048",
+  "last_updated_display": "2025년 12월 19일 12:26 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -216,7 +216,7 @@
       "price": 208.31,
       "change": -2.02,
       "change_percent": "-0.9604",
-      "volume": 7480803,
+      "volume": 7499852,
       "market_cap": 0.4
     }
   },
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 85336,
-      "change_24h": -0.84,
-      "market_cap": 1701981160045.364
+      "price": 86944,
+      "change_24h": 0.72,
+      "market_cap": 1727366944066.3374
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2822.45,
-      "change_24h": -0.08,
-      "market_cap": 340332252230.5233
+      "price": 2901.2,
+      "change_24h": 2.53,
+      "market_cap": 347389058544.12756
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 825.04,
-      "change_24h": -1.84,
-      "market_cap": 113580562744.61864
+      "price": 838.13,
+      "change_24h": -0.27,
+      "market_cap": 114922219483.7794
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.348109,
-      "change_24h": -4.48,
-      "market_cap": 12747091953.984566
+      "price": 0.35684,
+      "change_24h": -2.16,
+      "market_cap": 13041011602.070173
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 118.23,
-      "change_24h": -4.13,
-      "market_cap": 66389688121.138275
+      "price": 120.95,
+      "change_24h": -1.85,
+      "market_cap": 67540945193.66506
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 1.78,
-      "change_24h": -3.98,
-      "market_cap": 107582265792.8449
+      "price": 1.83,
+      "change_24h": -1.17,
+      "market_cap": 110344652230.4877
     }
   },
   "real_estate": {
