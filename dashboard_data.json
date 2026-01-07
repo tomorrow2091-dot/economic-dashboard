@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2026-01-08T05:51:50.212085",
-  "last_updated_display": "2026년 01월 08일 05:51 KST",
+  "last_updated": "2026-01-08T06:23:58.171758",
+  "last_updated_display": "2026년 01월 08일 06:23 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -132,91 +132,91 @@
     "AAPL": {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": 262.36,
-      "change": -4.9,
-      "change_percent": "-1.8334",
-      "volume": 52352090,
+      "price": 260.33,
+      "change": -2.03,
+      "change_percent": "-0.7737",
+      "volume": 47586838,
       "market_cap": 3.5
     },
     "MSFT": {
       "symbol": "MSFT",
       "name": "Microsoft Corp.",
-      "price": 478.51,
-      "change": 5.66,
-      "change_percent": "1.1970",
-      "volume": 23037665,
+      "price": 483.47,
+      "change": 4.96,
+      "change_percent": "1.0366",
+      "volume": 25407235,
       "market_cap": 3.1
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "price": 314.34,
-      "change": -2.2,
-      "change_percent": "-0.6950",
-      "volume": 31212101,
+      "price": 321.98,
+      "change": 7.64,
+      "change_percent": "2.4305",
+      "volume": 34887785,
       "market_cap": 2.1
     },
     "AMZN": {
       "symbol": "AMZN",
       "name": "Amazon.com Inc.",
-      "price": 240.93,
-      "change": 7.87,
-      "change_percent": "3.3768",
-      "volume": 53764677,
+      "price": 241.56,
+      "change": 0.63,
+      "change_percent": "0.2615",
+      "volume": 41782519,
       "market_cap": 1.8
     },
     "NVDA": {
       "symbol": "NVDA",
       "name": "NVIDIA Corp.",
-      "price": 187.24,
-      "change": -0.88,
-      "change_percent": "-0.4678",
-      "volume": 176862604,
+      "price": 189.11,
+      "change": 1.87,
+      "change_percent": "0.9987",
+      "volume": 152188438,
       "market_cap": 1.7
     },
     "TSLA": {
       "symbol": "TSLA",
       "name": "Tesla Inc.",
-      "price": 432.96,
-      "change": -18.71,
-      "change_percent": "-4.1424",
-      "volume": 89093758,
+      "price": 431.41,
+      "change": -1.55,
+      "change_percent": "-0.3580",
+      "volume": 58974627,
       "market_cap": 0.8
     },
     "META": {
       "symbol": "META",
       "name": "Meta Platforms Inc.",
-      "price": 660.62,
-      "change": 1.83,
-      "change_percent": "0.2778",
-      "volume": 11074419,
+      "price": 648.69,
+      "change": -11.93,
+      "change_percent": "-1.8059",
+      "volume": 12746269,
       "market_cap": 1.3
     },
     "BRK-B": {
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway",
-      "price": 499.05,
-      "change": 0.53,
-      "change_percent": "0.1063",
-      "volume": 4040008,
+      "price": 496.26,
+      "change": -2.79,
+      "change_percent": "-0.5591",
+      "volume": 4387703,
       "market_cap": 0.9
     },
     "UNH": {
       "symbol": "UNH",
       "name": "UnitedHealth Group",
-      "price": 348.97,
-      "change": 6.95,
-      "change_percent": "2.0320",
-      "volume": 9441893,
+      "price": 341.8,
+      "change": -7.17,
+      "change_percent": "-2.0546",
+      "volume": 7380014,
       "market_cap": 0.5
     },
     "JNJ": {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "price": 204.79,
-      "change": 0.48,
-      "change_percent": "0.2349",
-      "volume": 8107853,
+      "price": 207.48,
+      "change": 2.69,
+      "change_percent": "1.3135",
+      "volume": 7542416,
       "market_cap": 0.4
     }
   },
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 91014,
-      "change_24h": -1.59,
-      "market_cap": 1817534413462.6975
+      "price": 91073,
+      "change_24h": -2.57,
+      "market_cap": 1818978106216.4817
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3136.96,
-      "change_24h": -3.29,
-      "market_cap": 378664707023.6236
+      "price": 3141.38,
+      "change_24h": -4.17,
+      "market_cap": 379142285328.4981
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 895.04,
-      "change_24h": -1.16,
-      "market_cap": 123319064628.9745
+      "price": 896.84,
+      "change_24h": -1.64,
+      "market_cap": 123525667234.31267
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.400403,
-      "change_24h": -2.87,
-      "market_cap": 14679745065.01624
+      "price": 0.401337,
+      "change_24h": -3.97,
+      "market_cap": 14719652866.758398
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 135.65,
-      "change_24h": -2.33,
-      "market_cap": 76547578213.08076
+      "price": 136.07,
+      "change_24h": -3.35,
+      "market_cap": 76716989681.03505
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "price": 2.18,
-      "change_24h": -3.69,
-      "market_cap": 132080790167.39307
+      "change_24h": -4.37,
+      "market_cap": 132165630219.2193
     }
   },
   "real_estate": {
