@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2026-01-23T08:25:27.640144",
-  "last_updated_display": "2026년 01월 23일 08:25 KST",
+  "last_updated": "2026-01-23T08:44:34.988317",
+  "last_updated_display": "2026년 01월 23일 08:44 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -135,7 +135,7 @@
       "price": 248.35,
       "change": 0.7,
       "change_percent": "0.2827",
-      "volume": 39669430,
+      "volume": 39373587,
       "market_cap": 3.5
     },
     "MSFT": {
@@ -144,7 +144,7 @@
       "price": 451.14,
       "change": 7.03,
       "change_percent": "1.5829",
-      "volume": 25323033,
+      "volume": 25226023,
       "market_cap": 3.1
     },
     "GOOGL": {
@@ -153,7 +153,7 @@
       "price": 330.54,
       "change": 2.16,
       "change_percent": "0.6578",
-      "volume": 26220549,
+      "volume": 26137739,
       "market_cap": 2.1
     },
     "AMZN": {
@@ -162,7 +162,7 @@
       "price": 234.34,
       "change": 3.03,
       "change_percent": "1.3099",
-      "volume": 31835721,
+      "volume": 31712832,
       "market_cap": 1.8
     },
     "NVDA": {
@@ -171,7 +171,7 @@
       "price": 184.84,
       "change": 1.52,
       "change_percent": "0.8292",
-      "volume": 139340852,
+      "volume": 138820007,
       "market_cap": 1.7
     },
     "TSLA": {
@@ -180,7 +180,7 @@
       "price": 449.36,
       "change": 17.92,
       "change_percent": "4.1535",
-      "volume": 71270980,
+      "volume": 70679351,
       "market_cap": 0.8
     },
     "META": {
@@ -189,7 +189,7 @@
       "price": 647.63,
       "change": 34.67,
       "change_percent": "5.6562",
-      "volume": 21354921,
+      "volume": 21308743,
       "market_cap": 1.3
     },
     "BRK-B": {
@@ -198,25 +198,25 @@
       "price": 484.49,
       "change": 0.66,
       "change_percent": "0.1364",
-      "volume": 4050972,
+      "volume": 4040631,
       "market_cap": 0.9
     },
     "UNH": {
       "symbol": "UNH",
       "name": "UnitedHealth Group",
-      "price": 354.53,
-      "change": 6.78,
-      "change_percent": "1.9497",
-      "volume": 7390415,
+      "price": 354.47,
+      "change": 6.72,
+      "change_percent": "1.9324",
+      "volume": 7359096,
       "market_cap": 0.5
     },
     "JNJ": {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "price": 218.555,
-      "change": 0.545,
-      "change_percent": "0.2500",
-      "volume": 13159681,
+      "price": 218.49,
+      "change": 0.48,
+      "change_percent": "0.2202",
+      "volume": 13004449,
       "market_cap": 0.4
     }
   },
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 89374,
-      "change_24h": -0.58,
-      "market_cap": 1784274110073.4595
+      "price": 89418,
+      "change_24h": 0.06,
+      "market_cap": 1786195526056.231
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2949.12,
-      "change_24h": -1.97,
-      "market_cap": 355654867629.4257
+      "price": 2947.61,
+      "change_24h": -1.21,
+      "market_cap": 355650322282.6455
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 886.27,
-      "change_24h": -0.02,
-      "market_cap": 120787534607.9699
+      "price": 886.26,
+      "change_24h": 0.21,
+      "market_cap": 120827034106.48659
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.358849,
-      "change_24h": -2.52,
-      "market_cap": 13192979239.90789
+      "price": 0.35886,
+      "change_24h": -2.29,
+      "market_cap": 13197274144.041632
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 128.36,
-      "change_24h": -1.52,
-      "market_cap": 72622872574.65208
+      "price": 128.34,
+      "change_24h": -1.03,
+      "market_cap": 72623857047.14612
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "price": 1.92,
-      "change_24h": -1.96,
-      "market_cap": 116661886429.72601
+      "change_24h": -1.54,
+      "market_cap": 116733075280.00684
     }
   },
   "real_estate": {
