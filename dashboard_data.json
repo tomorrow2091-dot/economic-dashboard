@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2026-02-03T09:02:25.300761",
-  "last_updated_display": "2026년 02월 03일 09:02 KST",
+  "last_updated": "2026-02-03T12:13:00.251694",
+  "last_updated_display": "2026년 02월 03일 12:13 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -207,7 +207,7 @@
       "price": 285.59,
       "change": -1.34,
       "change_percent": "-0.4670",
-      "volume": 8645919,
+      "volume": 8573610,
       "market_cap": 0.5
     },
     "JNJ": {
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 78557,
-      "change_24h": 2.36,
-      "market_cap": 1569821615781.3174
+      "price": 77988,
+      "change_24h": 2.27,
+      "market_cap": 1552697451191.6038
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2338.41,
-      "change_24h": 3.56,
-      "market_cap": 282227739480.6536
+      "price": 2303.26,
+      "change_24h": 2.21,
+      "market_cap": 277267090338.661
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 772.04,
-      "change_24h": 1.84,
-      "market_cap": 105316615063.55923
+      "price": 766.62,
+      "change_24h": 1.39,
+      "market_cap": 104204061250.99501
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.298761,
-      "change_24h": 4.49,
-      "market_cap": 10992043173.185202
+      "price": 0.294818,
+      "change_24h": 2.79,
+      "market_cap": 10827910015.287409
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 104.32,
-      "change_24h": 3.49,
-      "market_cap": 59113939664.15634
+      "price": 102.54,
+      "change_24h": 2.78,
+      "market_cap": 58010107469.55809
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 1.62,
-      "change_24h": 1.95,
-      "market_cap": 98484077004.47522
+      "price": 1.6,
+      "change_24h": 1.15,
+      "market_cap": 96800886155.83823
     }
   },
   "real_estate": {
