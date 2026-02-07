@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2026-02-07T08:58:33.568226",
-  "last_updated_display": "2026년 02월 07일 08:58 KST",
+  "last_updated": "2026-02-07T11:45:03.734523",
+  "last_updated_display": "2026년 02월 07일 11:45 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -216,7 +216,7 @@
       "price": 239.99,
       "change": 2.2,
       "change_percent": "0.9252",
-      "volume": 8267756,
+      "volume": 8256305,
       "market_cap": 0.4
     }
   },
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 70546,
-      "change_24h": 12.29,
-      "market_cap": 1409456747955.5288
+      "price": 70310,
+      "change_24h": 7.9,
+      "market_cap": 1407461527305.7302
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2062.82,
-      "change_24h": 13.31,
-      "market_cap": 248839493998.02582
+      "price": 2053.0,
+      "change_24h": 7.0,
+      "market_cap": 248099328459.29297
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 657.12,
-      "change_24h": 8.25,
-      "market_cap": 89588722724.50471
+      "price": 655.73,
+      "change_24h": 4.69,
+      "market_cap": 89510683093.82544
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.276092,
-      "change_24h": 12.67,
-      "market_cap": 10158775146.195631
+      "price": 0.272815,
+      "change_24h": 10.62,
+      "market_cap": 10044221043.461117
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 87.52,
-      "change_24h": 11.74,
-      "market_cap": 49603299711.008316
+      "price": 87.2,
+      "change_24h": 12.13,
+      "market_cap": 49509401352.64164
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 1.47,
-      "change_24h": 20.86,
-      "market_cap": 89512413632.15604
+      "price": 1.46,
+      "change_24h": 15.31,
+      "market_cap": 89200572816.36777
     }
   },
   "real_estate": {
