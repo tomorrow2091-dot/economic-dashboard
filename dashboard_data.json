@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2026-03-04T08:59:06.548710",
-  "last_updated_display": "2026년 03월 04일 08:59 KST",
+  "last_updated": "2026-03-04T11:46:11.922125",
+  "last_updated_display": "2026년 03월 04일 11:46 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -153,7 +153,7 @@
       "price": 303.58,
       "change": -2.94,
       "change_percent": "-0.9592",
-      "volume": 34778598,
+      "volume": 35496961,
       "market_cap": 2.1
     },
     "AMZN": {
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 68292,
-      "change_24h": -0.75,
-      "market_cap": 1365603450844.784
+      "price": 68149,
+      "change_24h": -0.59,
+      "market_cap": 1362342106662.5027
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1982.36,
-      "change_24h": -2.22,
-      "market_cap": 239249820078.87534
+      "price": 1973.76,
+      "change_24h": -2.0,
+      "market_cap": 238128431395.0874
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 633.5,
-      "change_24h": -0.65,
-      "market_cap": 86412866533.75946
+      "price": 632.49,
+      "change_24h": -0.75,
+      "market_cap": 86228005656.82867
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.262786,
-      "change_24h": -5.04,
-      "market_cap": 9686390924.596169
+      "price": 0.263535,
+      "change_24h": -3.95,
+      "market_cap": 9699369945.023693
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 87.04,
-      "change_24h": 0.46,
-      "market_cap": 49676194775.55179
+      "price": 86.79,
+      "change_24h": 0.83,
+      "market_cap": 49449814191.334694
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "price": 1.36,
-      "change_24h": -2.2,
-      "market_cap": 83118905828.15181
+      "change_24h": -1.59,
+      "market_cap": 82971436128.3183
     }
   },
   "real_estate": {
