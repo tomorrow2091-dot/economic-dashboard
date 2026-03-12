@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2026-03-12T11:50:07.614498",
-  "last_updated_display": "2026년 03월 12일 11:50 KST",
+  "last_updated": "2026-03-12T13:49:41.819552",
+  "last_updated_display": "2026년 03월 12일 13:49 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -164,15 +164,6 @@
       "change_percent": "-0.7838",
       "volume": 34199303,
       "market_cap": 1.8
-    },
-    "NVDA": {
-      "symbol": "NVDA",
-      "name": "NVIDIA Corp.",
-      "price": 186.03,
-      "change": 1.2699,
-      "change_percent": "0.6873",
-      "volume": 145280386,
-      "market_cap": 1.7
     },
     "TSLA": {
       "symbol": "TSLA",
@@ -370,44 +361,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 69383,
-      "change_24h": -0.56,
-      "market_cap": 1389224452876.5305
+      "price": 69353,
+      "change_24h": -1.19,
+      "market_cap": 1387282315952.4092
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2027.59,
-      "change_24h": 0.11,
-      "market_cap": 245143102255.404
+      "price": 2022.52,
+      "change_24h": -0.8,
+      "market_cap": 244129930855.02466
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 643.55,
-      "change_24h": 0.56,
-      "market_cap": 87845307119.9571
+      "price": 642.85,
+      "change_24h": -0.22,
+      "market_cap": 87668131132.39008
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.259559,
-      "change_24h": 0.13,
-      "market_cap": 9562639727.004751
+      "price": 0.259017,
+      "change_24h": -1.04,
+      "market_cap": 9540756053.067297
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 85.49,
-      "change_24h": -0.17,
-      "market_cap": 48885727689.87794
+      "price": 85.08,
+      "change_24h": -1.64,
+      "market_cap": 48610041087.73563
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "price": 1.37,
-      "change_24h": -0.47,
-      "market_cap": 84124555402.76402
+      "change_24h": -1.19,
+      "market_cap": 83928557738.43648
     }
   },
   "real_estate": {
@@ -434,7 +425,7 @@
     "description": "신중한 낙관론에서 약간 하향 조정된 환경"
   },
   "stats": {
-    "total_assets_tracked": 29,
+    "total_assets_tracked": 28,
     "api_calls_made": {
       "alpha_vantage": 10,
       "finnhub": 0,
