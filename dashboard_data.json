@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2026-03-12T08:35:26.941279",
-  "last_updated_display": "2026년 03월 12일 08:35 KST",
+  "last_updated": "2026-03-12T08:58:40.422868",
+  "last_updated_display": "2026년 03월 12일 08:58 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 70356,
-      "change_24h": 0.64,
-      "market_cap": 1407155940164.731
+      "price": 70203,
+      "change_24h": 0.39,
+      "market_cap": 1404211933271.8486
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2058.31,
-      "change_24h": 1.22,
-      "market_cap": 248419350894.60764
+      "price": 2052.16,
+      "change_24h": 0.79,
+      "market_cap": 247553922388.4736
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 651.81,
-      "change_24h": 1.55,
-      "market_cap": 88831386489.0844
+      "price": 651.5,
+      "change_24h": 1.5,
+      "market_cap": 88823652060.0707
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.263239,
-      "change_24h": 0.48,
-      "market_cap": 9697293355.891565
+      "price": 0.262531,
+      "change_24h": 0.22,
+      "market_cap": 9670707192.500454
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 86.81,
-      "change_24h": 1.41,
-      "market_cap": 49570729241.79049
+      "price": 86.57,
+      "change_24h": 0.9,
+      "market_cap": 49452954182.321754
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 1.39,
-      "change_24h": 0.12,
-      "market_cap": 85003196251.41467
+      "price": 1.38,
+      "change_24h": -0.1,
+      "market_cap": 84795588135.03014
     }
   },
   "real_estate": {
