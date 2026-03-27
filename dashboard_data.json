@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2026-03-27T18:38:14.497998",
-  "last_updated_display": "2026년 03월 27일 18:38 KST",
+  "last_updated": "2026-03-27T19:32:35.829465",
+  "last_updated_display": "2026년 03월 27일 19:32 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -189,7 +189,7 @@
       "price": 547.54,
       "change": -47.35,
       "change_percent": "-7.9595",
-      "volume": 35441469,
+      "volume": 35780131,
       "market_cap": 1.3
     },
     "BRK-B": {
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 67765,
-      "change_24h": -2.45,
-      "market_cap": 1355445102358.3403
+      "price": 67674,
+      "change_24h": -2.75,
+      "market_cap": 1353722417908.9578
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2045.54,
-      "change_24h": -1.78,
-      "market_cap": 246893655982.2437
+      "price": 2041.05,
+      "change_24h": -1.85,
+      "market_cap": 246352237311.16043
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 620.0,
-      "change_24h": -1.46,
-      "market_cap": 84535988076.9285
+      "price": 618.93,
+      "change_24h": -1.92,
+      "market_cap": 84395136608.39476
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.251274,
-      "change_24h": -2.46,
-      "market_cap": 9262413028.911098
+      "price": 0.251153,
+      "change_24h": -2.61,
+      "market_cap": 9255907506.636303
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
       "price": 85.01,
-      "change_24h": -3.78,
-      "market_cap": 48655990924.78995
+      "change_24h": -3.65,
+      "market_cap": 48668479797.85788
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "price": 1.35,
-      "change_24h": -2.14,
-      "market_cap": 82535562982.56952
+      "change_24h": -2.07,
+      "market_cap": 82554841852.61772
     }
   },
   "real_estate": {
