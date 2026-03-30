@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2026-03-31T07:49:55.939862",
-  "last_updated_display": "2026년 03월 31일 07:49 KST",
+  "last_updated": "2026-03-31T08:39:19.295117",
+  "last_updated_display": "2026년 03월 31일 08:39 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -132,10 +132,10 @@
     "AAPL": {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": 248.8,
-      "change": -4.09,
-      "change_percent": "-1.6173",
-      "volume": 47899998,
+      "price": 246.63,
+      "change": -2.17,
+      "change_percent": "-0.8722",
+      "volume": 38097741,
       "market_cap": 3.5
     },
     "MSFT": {
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 66688,
-      "change_24h": 2.06,
-      "market_cap": 1334099370594.2954
+      "price": 66650,
+      "change_24h": 1.07,
+      "market_cap": 1334416356421.8108
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2030.67,
-      "change_24h": 3.86,
-      "market_cap": 245028167588.66946
+      "price": 2023.04,
+      "change_24h": 2.01,
+      "market_cap": 244359701607.77692
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 610.71,
-      "change_24h": 1.69,
-      "market_cap": 83263340862.77095
+      "price": 608.09,
+      "change_24h": 0.49,
+      "market_cap": 82953636006.0801
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.244556,
-      "change_24h": 3.91,
-      "market_cap": 9019694670.07777
+      "price": 0.243423,
+      "change_24h": 1.76,
+      "market_cap": 8980480138.095335
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 82.76,
-      "change_24h": 3.7,
-      "market_cap": 47447866335.15723
+      "price": 82.45,
+      "change_24h": 1.43,
+      "market_cap": 47207315495.24517
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 1.33,
-      "change_24h": 1.65,
-      "market_cap": 81513145967.82158
+      "price": 1.32,
+      "change_24h": -0.14,
+      "market_cap": 81195381430.11461
     }
   },
   "real_estate": {
