@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2026-06-11T15:27:18.520220",
-  "last_updated_display": "2026년 06월 11일 15:27 KST",
+  "last_updated": "2026-06-11T20:11:46.006220",
+  "last_updated_display": "2026년 06월 11일 20:11 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -138,15 +138,6 @@
       "volume": 52793266,
       "market_cap": 3.5
     },
-    "MSFT": {
-      "symbol": "MSFT",
-      "name": "Microsoft Corp.",
-      "price": 397.36,
-      "change": -6.05,
-      "change_percent": "-1.4997",
-      "volume": 32576041,
-      "market_cap": 3.1
-    },
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
@@ -182,15 +173,6 @@
       "change_percent": "-3.8041",
       "volume": 49695583,
       "market_cap": 0.8
-    },
-    "META": {
-      "symbol": "META",
-      "name": "Meta Platforms Inc.",
-      "price": 570.98,
-      "change": -13.61,
-      "change_percent": "-2.3281",
-      "volume": 17064048,
-      "market_cap": 1.3
     },
     "BRK-B": {
       "symbol": "BRK-B",
@@ -370,44 +352,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 62810,
-      "change_24h": 2.46,
-      "market_cap": 1259369989504.1553
+      "price": 63113,
+      "change_24h": 3.46,
+      "market_cap": 1264583589180.4456
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1656.68,
-      "change_24h": 1.82,
-      "market_cap": 200077228105.29062
+      "price": 1659.37,
+      "change_24h": 2.65,
+      "market_cap": 200130252326.09418
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 596.12,
-      "change_24h": 1.74,
-      "market_cap": 80376645387.03186
+      "price": 598.83,
+      "change_24h": 2.96,
+      "market_cap": 80735465279.19846
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.165633,
-      "change_24h": 3.27,
-      "market_cap": 6157912584.604416
+      "price": 0.165767,
+      "change_24h": 4.02,
+      "market_cap": 6166999485.2945175
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 65.23,
-      "change_24h": 1.8,
-      "market_cap": 37819984197.63425
+      "price": 65.44,
+      "change_24h": 3.51,
+      "market_cap": 37927633687.93347
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "price": 1.12,
-      "change_24h": 0.6,
-      "market_cap": 69340129003.92642
+      "change_24h": 1.33,
+      "market_cap": 69525720601.77103
     }
   },
   "real_estate": {
@@ -434,7 +416,7 @@
     "description": "신중한 낙관론에서 약간 하향 조정된 환경"
   },
   "stats": {
-    "total_assets_tracked": 29,
+    "total_assets_tracked": 27,
     "api_calls_made": {
       "alpha_vantage": 10,
       "finnhub": 0,
