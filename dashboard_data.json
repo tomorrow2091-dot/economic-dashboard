@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2026-07-11T07:16:17.353437",
-  "last_updated_display": "2026년 07월 11일 07:16 KST",
+  "last_updated": "2026-07-11T08:30:24.414487",
+  "last_updated_display": "2026년 07월 11일 08:30 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -135,7 +135,7 @@
       "price": 315.32,
       "change": -0.9,
       "change_percent": "-0.2846",
-      "volume": 34110718,
+      "volume": 30829651,
       "market_cap": 3.5
     },
     "MSFT": {
@@ -144,7 +144,7 @@
       "price": 385.1,
       "change": 0.74,
       "change_percent": "0.1925",
-      "volume": 24612567,
+      "volume": 24020722,
       "market_cap": 3.1
     },
     "GOOGL": {
@@ -153,7 +153,7 @@
       "price": 357.18,
       "change": -1.71,
       "change_percent": "-0.4765",
-      "volume": 18127182,
+      "volume": 17940411,
       "market_cap": 2.1
     },
     "AMZN": {
@@ -162,7 +162,7 @@
       "price": 245.34,
       "change": -1.7,
       "change_percent": "-0.6881",
-      "volume": 31625589,
+      "volume": 31234771,
       "market_cap": 1.8
     },
     "NVDA": {
@@ -171,7 +171,7 @@
       "price": 210.96,
       "change": 8.18,
       "change_percent": "4.0339",
-      "volume": 148133199,
+      "volume": 147464834,
       "market_cap": 1.7
     },
     "TSLA": {
@@ -180,7 +180,7 @@
       "price": 407.76,
       "change": 1.21,
       "change_percent": "0.2976",
-      "volume": 33345095,
+      "volume": 33193008,
       "market_cap": 0.8
     },
     "META": {
@@ -189,16 +189,16 @@
       "price": 669.21,
       "change": 37.73,
       "change_percent": "5.9749",
-      "volume": 40563915,
+      "volume": 40176824,
       "market_cap": 1.3
     },
     "BRK-B": {
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway",
-      "price": 493.87,
-      "change": -1.58,
-      "change_percent": "-0.3189",
-      "volume": 2735212,
+      "price": 493.71,
+      "change": -1.74,
+      "change_percent": "-0.3512",
+      "volume": 2716391,
       "market_cap": 0.9
     },
     "UNH": {
@@ -207,16 +207,16 @@
       "price": 424.62,
       "change": -7.06,
       "change_percent": "-1.6355",
-      "volume": 3797127,
+      "volume": 3785616,
       "market_cap": 0.5
     },
     "JNJ": {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "price": 257.03,
-      "change": -2.07,
-      "change_percent": "-0.7989",
-      "volume": 6533439,
+      "price": 256.98,
+      "change": -2.12,
+      "change_percent": "-0.8182",
+      "volume": 6472410,
       "market_cap": 0.4
     }
   },
@@ -370,44 +370,44 @@
     "BTC": {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64004,
-      "change_24h": 1.15,
-      "market_cap": 1283578445840.3123
+      "price": 64151,
+      "change_24h": 1.6,
+      "market_cap": 1286519050869.912
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1794.21,
-      "change_24h": 2.65,
-      "market_cap": 216531333892.42093
+      "price": 1795.09,
+      "change_24h": 2.94,
+      "market_cap": 216660257145.77777
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
-      "price": 575.97,
-      "change_24h": 1.08,
-      "market_cap": 77627045288.44392
+      "price": 575.75,
+      "change_24h": 1.3,
+      "market_cap": 77605841668.22096
     },
     "ADA": {
       "symbol": "ADA",
       "name": "Cardano",
-      "price": 0.167121,
-      "change_24h": 0.16,
-      "market_cap": 6228310377.44946
+      "price": 0.166788,
+      "change_24h": 0.23,
+      "market_cap": 6216553520.628822
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 78.0,
-      "change_24h": -0.08,
-      "market_cap": 45396536317.312836
+      "price": 78.05,
+      "change_24h": 0.17,
+      "market_cap": 45423615896.522705
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "price": 1.1,
-      "change_24h": 0.77,
-      "market_cap": 68941381790.82025
+      "change_24h": 1.07,
+      "market_cap": 68970099801.93105
     }
   },
   "real_estate": {
