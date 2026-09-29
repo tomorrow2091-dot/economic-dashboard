@@ -1,7 +1,7 @@
 {
   "version": "2.2",
-  "last_updated": "2026-09-29T17:39:41.652222",
-  "last_updated_display": "2026년 09월 29일 17:39 KST",
+  "last_updated": "2026-09-30T00:05:52.862113",
+  "last_updated_display": "2026년 09월 30일 00:05 KST",
   "year": 2025,
   "data_source": "GitHub 실시간 연동 (폴백 데이터 포함)",
   "market_status": {
@@ -164,6 +164,24 @@
       "change_percent": "-1.4099",
       "volume": 32596709,
       "market_cap": 1.8
+    },
+    "NVDA": {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp.",
+      "price": 228.86,
+      "change": 3.79,
+      "change_percent": "1.6839",
+      "volume": 142344321,
+      "market_cap": 1.7
+    },
+    "TSLA": {
+      "symbol": "TSLA",
+      "name": "Tesla Inc.",
+      "price": 357.45,
+      "change": -14.66,
+      "change_percent": "-3.9397",
+      "volume": 39452901,
+      "market_cap": 0.8
     },
     "META": {
       "symbol": "META",
@@ -416,7 +434,7 @@
     "description": "신중한 낙관론에서 약간 하향 조정된 환경"
   },
   "stats": {
-    "total_assets_tracked": 27,
+    "total_assets_tracked": 29,
     "api_calls_made": {
       "alpha_vantage": 10,
       "finnhub": 0,
